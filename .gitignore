@@ -1,0 +1,6 @@
+.env
+.venv/
+vector_store/
+data/
+__pycache__/
+*.pycgit rm --cached .env
