@@ -3,6 +3,8 @@
 An Intelligent Multi-Document Retrieval-Augmented Generation (RAG) Assistant that allows users to upload documents, perform hybrid search, and chat with their data using Large Language Models.
 
 ---
+### Live demo
+https://av4lkchad4usgangejfuaw.streamlit.app/
 
 ## 🚀 Features
 
